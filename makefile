@@ -1,6 +1,6 @@
 #Nathan Greenlaw
 #9/30/2016
-#Makefile
+#Makefile For Linux Machines
 
 CXX = g++
 CXXFLAGS = -std=c++0x 
