@@ -1,0 +1,10 @@
+﻿  room.cpp
+  player.cpp
+c:\users\green\documents\visual studio programs\the moose are loose\the moose are loose\player.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\green\documents\visual studio programs\the moose are loose\the moose are loose\player.cpp(108): warning C4018: '>': signed/unsigned mismatch
+c:\users\green\documents\visual studio programs\the moose are loose\the moose are loose\player.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\green\documents\visual studio programs\the moose are loose\the moose are loose\player.cpp(248): warning C4018: '>': signed/unsigned mismatch
+c:\users\green\documents\visual studio programs\the moose are loose\the moose are loose\player.cpp(460): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\green\documents\visual studio programs\the moose are loose\the moose are loose\player.cpp(377): warning C4715: 'Player::typeMoose': not all control paths return a value
+  The Moose Are Loose.vcxproj -> C:\Users\green\Documents\Visual Studio Programs\The Moose Are Loose\Debug\The Moose Are Loose.exe
